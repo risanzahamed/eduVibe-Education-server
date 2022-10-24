@@ -24,6 +24,15 @@ app.get("/courses",(req, res)=>{
 //     res.send("server is working")
 // })
 
+app.get("/courses/:id", (req, res)=>{
+  const id = req.params.id;
+  const getSingleCourse = coursesData.find(course => course.id == id);
+
+  if(!getSingleCourse){
+    res.send("data not found");
+  }
+  res.send(getSingleCourse);
+})
 
 app.listen(Port, () => {
   console.log("server is running", Port)
