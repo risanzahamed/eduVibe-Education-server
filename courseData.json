@@ -9,7 +9,7 @@
         "rate": 3.9
       },
       "author": "Arman Malik",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
 
     },
     {
@@ -22,7 +22,7 @@
         "rate": 4.1
       },
       "author": "Arman Malik",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
     },
     {
       "id": 3,
@@ -34,7 +34,7 @@
         "rate": 4.7
       },
       "author": "Arman Malik",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/10260436_946b_6.jpg"
     },
     {
       "id": 4,
@@ -46,7 +46,7 @@
         "rate": 4.1
       },
       "author": "Dr. Angela Yu",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/31334738_a13c_3.jpg"
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
         "rate": 4.6
       },
       "author": "Maximilian Schwarzmüller",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/31926668_94e7_6.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/31926668_94e7_6.jpg"
     },
     {
       "id": 6,
@@ -70,6 +70,6 @@
         "rate": 4.4
       },
       "author": "Bryson Payne",
-      "author-image": "https://img-c.udemycdn.com/user/200_H/12796044_b6aa_5.jpg"
+      "authorImage": "https://img-c.udemycdn.com/user/200_H/12796044_b6aa_5.jpg"
     }
   ]
